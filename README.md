@@ -27,9 +27,9 @@ Visit my script for details:
 
 #### Visualization
 
-![Customer segmentation](images\Customer_segmentation.jpg)
+![Customer segmentation](images/Customer_segmentation.jpg)
 
-![Customer segmentation table](images\customer_sg_table.png)
+![Customer segmentation table](images/customer_sg_table.png)
 
 #### Insights
 
