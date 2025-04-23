@@ -81,7 +81,7 @@ Visit my script for further details:
 
 ![Customer retention](images/churned_active.jpg)
 
-![Table of Customer retention](image/churned_active_table.png)
+![Table of Customer retention](images/churned_active_table.png)
 
 #### Insights 
 
