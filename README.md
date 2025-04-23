@@ -53,7 +53,7 @@ Visit my script for further details:
 
 #### Visualization
 
-![Cohort analysis](images\cohort_chart.jpg)
+![Cohort analysis](images/cohort_chart.jpg)
 
 #### Insights
 
@@ -77,7 +77,7 @@ Visit my script for further details:
 
 #### Visualization 
 
-![Customer retention](images\churned_active.jpg)
+![Customer retention](images/churned_active.jpg)
 
 #### Insights 
 
