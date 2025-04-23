@@ -55,6 +55,8 @@ Visit my script for further details:
 
 ![Cohort analysis](images/cohort_chart.jpg)
 
+![Table of Cohort analysis](images/cohort_chart_table.png)
+
 #### Insights
 
 1. **Strongest Cohorts:**
@@ -78,6 +80,8 @@ Visit my script for further details:
 #### Visualization 
 
 ![Customer retention](images/churned_active.jpg)
+
+![Table of Customer retention](image/churned_active_table.png)
 
 #### Insights 
 
